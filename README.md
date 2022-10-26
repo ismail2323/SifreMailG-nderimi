@@ -1,2 +1,2 @@
 # SifreMailGonderimi
-Sifreyi Mail Olarak Gönderme
+Sifreyi Mail Olarak Gonderme
